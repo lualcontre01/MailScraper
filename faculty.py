@@ -1,10 +1,5 @@
-# Import necessary packages
-import code
 from bs4 import BeautifulSoup
 import requests
-import pandas as pd
-import re
-# Site URL
 
 end_link = []
 fixed_url="https://www.arch.columbia.edu/faculty"
